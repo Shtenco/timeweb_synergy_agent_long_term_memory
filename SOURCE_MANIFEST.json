@@ -1,0 +1,17 @@
+{
+  "repo": "timeweb_synergy_agent_long_term_memory",
+  "article_number": 13,
+  "title": "Долговременная память агентов",
+  "status": "Ограниченный прототип / симуляция",
+  "files": {
+    ".gitignore": "d9d3d414f6f84c0ef3d8b09d59f49f6c2c173fab18219c9fa262db2383820cf5",
+    "README.md": "015d36e1ea49c72ef96c1a62b19c0d174167e4178d465b3fbfe91a37dd285c11",
+    "prototypes/__init__.py": "7ea3e33621d03c4e3e2271d2e93e55721d45d99472f589fa698ec105fcddfdb6",
+    "prototypes/__main__.py": "c63aff76bcd5a382a42c8d13eb3c2f5fb2c564b451bdfd20819631c3725055d6",
+    "prototypes/runner.py": "3e1a59a8d2260be864749b4aa583961569fdcbee7b161f1025ae3725a841306f",
+    "prototypes/scenarios/__init__.py": "60d32f11ef7875e4b24eedf3a631281803e0295a8206e39819cf2cae243632f8",
+    "prototypes/scenarios/article13.py": "edd0a39d1c2ed8a8ce997079ae3b527a905a3cb49c02f85813c923e595153d22",
+    "prototypes/tests/test_articles_13_15.py": "df484799a67adca1c23bed0fd4b79e969712781862a79ff5cd77fc655bca0244",
+    "requirements.txt": "12b84930f4edd3f3d1fde62f07d61110a07a88bdfb5acc5338f7fda8a61b8247"
+  }
+}
