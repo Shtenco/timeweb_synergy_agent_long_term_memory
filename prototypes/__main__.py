@@ -1,2 +1,4 @@
-from .runner import main
+from prototypes.runner import main
+
 raise SystemExit(main())
+
