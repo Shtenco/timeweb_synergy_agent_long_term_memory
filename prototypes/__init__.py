@@ -1,1 +1,2 @@
-"""HIAI research prototype №13: a bounded exact-string memory window."""
+"""Reproducible, explicitly labeled prototypes for the HIAI article series."""
+
