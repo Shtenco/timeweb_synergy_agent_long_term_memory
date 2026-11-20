@@ -1,1 +1,2 @@
-"""Scenario №13. Other article scenarios are intentionally not included."""
+"""Small, reproducible scenarios. Synthetic and simulated evidence is labeled."""
+
